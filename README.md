@@ -6,3 +6,4 @@ A new Flutter project.
 
 To use this sample app that leverages Socket Mobile's Capture SDK for Flutter, just clone the app, install dependencies and then execute `flutter run` in the command line.
 
+
