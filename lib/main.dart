@@ -82,11 +82,12 @@ class _MyHomePageState extends State<MyHomePage> {
     });
 
     final AppInfo appInfo = AppInfo(
-        'web:com.socketmobile.reactjs.native.example.example',
-        'MCwCFE6Cin/6r1kVHNHN8816Rowi8sPMAhQzruU80/2T/1ihJBQ1rqvCPodMlA==',
-        'ios:com.example.betaSdkTest',
-        'MCwCFE6Cin/6r1kVHNHN8816Rowi8sPMAhQzruU80/2T/1ihJBQ1rqvCPodMlA==',
-        'ecc6c526-970b-ec11-b6e6-0022480a2304');
+        'android:com.example.example',
+        'MC4CFQDNCtjazxILEh8oyT6w/wlaVKqS1gIVAKTz2W6TB9EgmjS1buy0A+3j7nX4',
+        'ios:com.example.example',
+        'MC0CFA1nzK67TLNmSw/QKFUIiedulUUcAhUAzT6EOvRwiZT+h4qyjEZo9oc0ONM=',
+        'bb57d8e1-f911-47ba-b510-693be162686a');
+        
     String stat = _status;
     String mess = _message;
     String? method;
@@ -221,7 +222,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   _onCaptureEvent(e, handle) {
-    print('yes');
+    
     if (e == null) {
       return;
     } else if (e.runtimeType == CaptureException) {
