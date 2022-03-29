@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.beta_sdk_test">
+    package="com.example.capture_flutter_sdk_sample">
    <application
-        android:label="beta_sdk_test"
+        android:label="capture_flutter_sdk_sample"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

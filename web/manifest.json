@@ -1,6 +1,6 @@
 {
-    "name": "beta_sdk_test",
-    "short_name": "beta_sdk_test",
+    "name": "capture_flutter_sdk_sample",
+    "short_name": "capture_flutter_sdk_sample",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
