@@ -1,12 +1,16 @@
-# Capture Flutter SDK Sample
+# example
 
-A sample app for the official Flutter CaptureSDK by Socket Mobile. It supports all current Socket Mobile’s barcode and NFC Reader scanning solutions.
+A new Flutter project.
 
 ## Getting Started
 
-To use this sample app that leverages Socket Mobile's Capture SDK for Flutter, just clone the app, install dependencies and then execute `flutter run` in the command line.
+This project is a starting point for a Flutter application.
 
-## capturesdk
+A few resources to get you started if this is your first Flutter project:
 
-For more on the flutter package, please see the page on [pub.dev](https://pub.dev/packages/capturesdk/).
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
